@@ -10,4 +10,4 @@
 
 **Contact Email:**  rdabbs88@terpmail.umd.edu 
 
-**Deploy Website:** (https://cmsc335finalproject-51y1.onrender.com/)
+**Deploy Website:** (https://usa-weather-app.onrender.com/)
