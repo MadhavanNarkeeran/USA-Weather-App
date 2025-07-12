@@ -8,4 +8,4 @@
             
 **APIs:** weatherstack (https://weatherstack.com/) 
 
-**Deploy Website:** (https://usa-weather-app.onrender.com/)
+**Deploy Website:** (https://usa-weather-app.onrender.com)
