@@ -6,6 +6,6 @@
 
 **YouTube Video Link:** https://youtu.be/NtaojW5xL04 
             
-**APIs:** weatherstack (https://weatherstack.com/) 
+**APIs:** weatherstack (https://weatherstack.com) 
 
 **Deploy Website:** (https://usa-weather-app.onrender.com)
