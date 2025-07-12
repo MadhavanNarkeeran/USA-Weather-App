@@ -8,6 +8,4 @@
             
 **APIs:** weatherstack (https://weatherstack.com/) 
 
-**Contact Email:**  rdabbs88@terpmail.umd.edu 
-
 **Deploy Website:** (https://usa-weather-app.onrender.com/)
